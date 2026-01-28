@@ -1,0 +1,6 @@
+{
+  "urls": [
+    ["rgbpixel.py", "github:melak/micropython-rgbpixel/rgbpixel.py"]
+  ],
+  "version": "0.1"
+}
